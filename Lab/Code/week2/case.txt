@@ -1,0 +1,13 @@
+THis Is A tEst for case switching exercise. !@#%$^&*()>?":>+ 110220112
+Rello my name is Trung
+U am from Vietnam
+NHis 
+GTHis Is A tEst for case switching exercise. !@#%$^&*()>?":>+ 110220112
+CHello my name is Trung
+u am from Vietnam
+THis 
+Elentry
+TRUNGCuTE
+TRUNGCuTET
+TRUNGCuTETT
+TRUNGCuTETTT

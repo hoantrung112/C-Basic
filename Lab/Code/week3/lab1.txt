@@ -1,0 +1,3 @@
+This is some random text to test my f*cking C program .
+This is some other random text to test my f*cking C program.
+This is some final random text to test my f*cking C program.

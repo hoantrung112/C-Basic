@@ -1,0 +1,5 @@
+admin	admin123	0.000000
+trung	trung1102	9.500000
+bibop	helloworld	10.000000
+alexis	alexis	7.000000
+anthony	martial	8.500000
